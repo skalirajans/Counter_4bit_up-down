@@ -163,10 +163,13 @@ It contains statements that map logical library names to their physical director
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
+![Screenshot 2024-11-08 101135](https://github.com/user-attachments/assets/a535ee85-af6d-4776-9369-4f4ca6383880)
 
 ## Fig 9: Design Browser window for simulation
+![Screenshot 2024-11-08 101217](https://github.com/user-attachments/assets/0de77427-98be-4686-976a-9bf2d2a7903c)
 
 ## Fig 10: Simulation Waveform Window
+![Screenshot 2024-11-08 101312](https://github.com/user-attachments/assets/81e9161a-ffb1-4b19-bb2f-2df3db349c8e)
 
 ## Fig 11: Simulation Waveform Window
 
